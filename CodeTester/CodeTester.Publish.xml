@@ -1,0 +1,11 @@
+<publishData>
+  <publishTarget publishUrl="http://localhost/ct/">
+    <file relUrl="result.aspx" publishTime="04/01/2011 21:26:55" />
+    <file relUrl="Default.aspx" publishTime="04/02/2011 20:25:45" />
+    <file relUrl="Style.css" publishTime="04/02/2011 20:36:14" />
+    <file relUrl="bin/CodeTester.dll" publishTime="04/03/2011 15:44:39" />
+    <file relUrl="Web.config" publishTime="04/01/2011 18:19:59" />
+    <file relUrl="bin/CodeTester.pdb" publishTime="04/03/2011 15:44:39" />
+  </publishTarget>
+  <publishTarget publishUrl="ftp://219.239.227.11:22/ct/" />
+</publishData>

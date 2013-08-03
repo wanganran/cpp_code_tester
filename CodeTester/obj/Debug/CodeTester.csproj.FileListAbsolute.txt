@@ -1,0 +1,5 @@
+E:\vs projects\CodeTester\CodeTester\bin\CodeTester.dll
+E:\vs projects\CodeTester\CodeTester\bin\CodeTester.pdb
+E:\vs projects\CodeTester\CodeTester\obj\Debug\ResolveAssemblyReference.cache
+E:\vs projects\CodeTester\CodeTester\obj\Debug\CodeTester.dll
+E:\vs projects\CodeTester\CodeTester\obj\Debug\CodeTester.pdb
